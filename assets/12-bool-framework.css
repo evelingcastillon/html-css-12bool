@@ -15,13 +15,18 @@
     display: table;
     clear: both;
 }
-.dbg [class*="col-"] {
+.dbg1 [class*="col-"] {
     background-color: rgba(255, 192, 203, 1);
     border: 1px solid black;
     height: 200px;
     text-align: center;
     line-height: 200px;
 }
+#dbg2 {
+    background-color: rgba(240, 127, 128, 1);
+    border: 1px solid white;
+}
+
 
 /* 12 colonne */
 
